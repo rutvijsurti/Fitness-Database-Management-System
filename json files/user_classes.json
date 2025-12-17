@@ -1,0 +1,512 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba9"
+    },
+    "user_id": 22,
+    "class_id": 26,
+    "enrollment_date": {
+      "$date": "2025-05-21T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb82"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbaa"
+    },
+    "user_id": 16,
+    "class_id": 11,
+    "enrollment_date": {
+      "$date": "2025-03-11T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb95"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbab"
+    },
+    "user_id": 7,
+    "class_id": 2,
+    "enrollment_date": {
+      "$date": "2024-11-01T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb73"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbac"
+    },
+    "user_id": 8,
+    "class_id": 1,
+    "enrollment_date": {
+      "$date": "2024-11-18T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb74"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbad"
+    },
+    "user_id": 10,
+    "class_id": 13,
+    "enrollment_date": {
+      "$date": "2025-08-24T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb97"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbae"
+    },
+    "user_id": 27,
+    "class_id": 18,
+    "enrollment_date": {
+      "$date": "2025-05-03T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbaf"
+    },
+    "user_id": 9,
+    "class_id": 17,
+    "enrollment_date": {
+      "$date": "2025-04-20T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb75"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb0"
+    },
+    "user_id": 26,
+    "class_id": 10,
+    "enrollment_date": {
+      "$date": "2025-09-30T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb94"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb1"
+    },
+    "user_id": 17,
+    "class_id": 11,
+    "enrollment_date": {
+      "$date": "2025-11-25T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb95"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb2"
+    },
+    "user_id": 12,
+    "class_id": 2,
+    "enrollment_date": {
+      "$date": "2024-12-03T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb3"
+    },
+    "user_id": 12,
+    "class_id": 16,
+    "enrollment_date": {
+      "$date": "2024-03-06T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb4"
+    },
+    "user_id": 20,
+    "class_id": 20,
+    "enrollment_date": {
+      "$date": "2024-08-13T00:00:00.000Z"
+    },
+    "attendance_status": "Enrolled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb80"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb5"
+    },
+    "user_id": 26,
+    "class_id": 6,
+    "enrollment_date": {
+      "$date": "2025-03-01T00:00:00.000Z"
+    },
+    "attendance_status": "Cancelled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb90"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb6"
+    },
+    "user_id": 28,
+    "class_id": 7,
+    "enrollment_date": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "attendance_status": "Cancelled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb88"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb91"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb7"
+    },
+    "user_id": 6,
+    "class_id": 15,
+    "enrollment_date": {
+      "$date": "2024-05-21T00:00:00.000Z"
+    },
+    "attendance_status": "Enrolled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb99"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb8"
+    },
+    "user_id": 11,
+    "class_id": 2,
+    "enrollment_date": {
+      "$date": "2024-07-05T00:00:00.000Z"
+    },
+    "attendance_status": "Cancelled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb77"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbb9"
+    },
+    "user_id": 17,
+    "class_id": 16,
+    "enrollment_date": {
+      "$date": "2024-05-13T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbba"
+    },
+    "user_id": 21,
+    "class_id": 20,
+    "enrollment_date": {
+      "$date": "2025-12-05T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbbb"
+    },
+    "user_id": 13,
+    "class_id": 6,
+    "enrollment_date": {
+      "$date": "2024-03-07T00:00:00.000Z"
+    },
+    "attendance_status": "Enrolled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb79"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb90"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbbc"
+    },
+    "user_id": 30,
+    "class_id": 11,
+    "enrollment_date": {
+      "$date": "2025-08-14T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8a"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb95"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbbd"
+    },
+    "user_id": 16,
+    "class_id": 28,
+    "enrollment_date": {
+      "$date": "2025-11-29T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbbe"
+    },
+    "user_id": 27,
+    "class_id": 3,
+    "enrollment_date": {
+      "$date": "2025-02-21T00:00:00.000Z"
+    },
+    "attendance_status": "Cancelled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbbf"
+    },
+    "user_id": 5,
+    "class_id": 13,
+    "enrollment_date": {
+      "$date": "2025-08-10T00:00:00.000Z"
+    },
+    "attendance_status": "Cancelled",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb97"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc0"
+    },
+    "user_id": 10,
+    "class_id": 9,
+    "enrollment_date": {
+      "$date": "2025-03-06T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb93"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc1"
+    },
+    "user_id": 5,
+    "class_id": 25,
+    "enrollment_date": {
+      "$date": "2025-03-25T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc2"
+    },
+    "user_id": 14,
+    "class_id": 5,
+    "enrollment_date": {
+      "$date": "2025-08-23T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7a"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc3"
+    },
+    "user_id": 6,
+    "class_id": 14,
+    "enrollment_date": {
+      "$date": "2025-04-18T00:00:00.000Z"
+    },
+    "attendance_status": "Missed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb98"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc4"
+    },
+    "user_id": 17,
+    "class_id": 8,
+    "enrollment_date": {
+      "$date": "2024-06-10T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb92"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc5"
+    },
+    "user_id": 12,
+    "class_id": 5,
+    "enrollment_date": {
+      "$date": "2025-12-25T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc6"
+    },
+    "user_id": 21,
+    "class_id": 11,
+    "enrollment_date": {
+      "$date": "2025-12-20T00:00:00.000Z"
+    },
+    "attendance_status": "Attended",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb95"
+    }
+  }
+]

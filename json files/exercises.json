@@ -1,0 +1,302 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc3f"
+    },
+    "name": "Push-ups",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 300,
+    "muscle_group": "Chest"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc40"
+    },
+    "name": "Squats",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 400,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc41"
+    },
+    "name": "Running",
+    "type": "Cardio",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 600,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc42"
+    },
+    "name": "Bench Press",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 350,
+    "muscle_group": "Chest"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc43"
+    },
+    "name": "Deadlift",
+    "type": "Strength",
+    "difficulty_level": "Advanced",
+    "calories_per_hour": 450,
+    "muscle_group": "Back"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc44"
+    },
+    "name": "Pull-ups",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 400,
+    "muscle_group": "Back"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc45"
+    },
+    "name": "Lunges",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 350,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc46"
+    },
+    "name": "Plank",
+    "type": "Core",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 200,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc47"
+    },
+    "name": "Burpees",
+    "type": "Cardio",
+    "difficulty_level": "Advanced",
+    "calories_per_hour": 800,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc48"
+    },
+    "name": "Mountain Climbers",
+    "type": "Cardio",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 700,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc49"
+    },
+    "name": "Bicep Curls",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 250,
+    "muscle_group": "Arms"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4a"
+    },
+    "name": "Tricep Dips",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 300,
+    "muscle_group": "Arms"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4b"
+    },
+    "name": "Shoulder Press",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 350,
+    "muscle_group": "Shoulders"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4c"
+    },
+    "name": "Leg Press",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 400,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4d"
+    },
+    "name": "Rowing",
+    "type": "Cardio",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 550,
+    "muscle_group": "Back"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4e"
+    },
+    "name": "Box Jumps",
+    "type": "Plyometric",
+    "difficulty_level": "Advanced",
+    "calories_per_hour": 650,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc4f"
+    },
+    "name": "Kettlebell Swings",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 500,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc50"
+    },
+    "name": "Battle Ropes",
+    "type": "Cardio",
+    "difficulty_level": "Advanced",
+    "calories_per_hour": 700,
+    "muscle_group": "Arms"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc51"
+    },
+    "name": "Jumping Jacks",
+    "type": "Cardio",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 450,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc52"
+    },
+    "name": "Sit-ups",
+    "type": "Core",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 250,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc53"
+    },
+    "name": "Russian Twists",
+    "type": "Core",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 300,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc54"
+    },
+    "name": "Leg Raises",
+    "type": "Core",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 280,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc55"
+    },
+    "name": "Cycling",
+    "type": "Cardio",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 500,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc56"
+    },
+    "name": "Swimming",
+    "type": "Cardio",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 600,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc57"
+    },
+    "name": "Yoga Sun Salutation",
+    "type": "Flexibility",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 200,
+    "muscle_group": "Full Body"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc58"
+    },
+    "name": "Pilates Roll-up",
+    "type": "Core",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 250,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc59"
+    },
+    "name": "Dumbbell Rows",
+    "type": "Strength",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 350,
+    "muscle_group": "Back"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc5a"
+    },
+    "name": "Calf Raises",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 200,
+    "muscle_group": "Legs"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc5b"
+    },
+    "name": "Side Plank",
+    "type": "Core",
+    "difficulty_level": "Intermediate",
+    "calories_per_hour": 220,
+    "muscle_group": "Core"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc5c"
+    },
+    "name": "Wall Sits",
+    "type": "Strength",
+    "difficulty_level": "Beginner",
+    "calories_per_hour": 300,
+    "muscle_group": "Legs"
+  }
+]

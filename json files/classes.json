@@ -1,0 +1,512 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb8b"
+    },
+    "trainer_id": 29,
+    "class_name": "HIIT Blast 1",
+    "category": "Cardio",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-11-15T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 11,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb8c"
+    },
+    "trainer_id": 20,
+    "class_name": "HIIT Blast 2",
+    "category": "Martial Arts",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-07-08T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 45,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb8d"
+    },
+    "trainer_id": 15,
+    "class_name": "Cardio Kickboxing 3",
+    "category": "Cardio",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-05-29T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 40,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb8e"
+    },
+    "trainer_id": 13,
+    "class_name": "Power Yoga 4",
+    "category": "Flexibility",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-08-26T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 28,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb8f"
+    },
+    "trainer_id": 13,
+    "class_name": "Morning Yoga 5",
+    "category": "Martial Arts",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-03-25T00:00:00.000Z"
+    },
+    "duration_minutes": 30,
+    "max_participants": 27,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb90"
+    },
+    "trainer_id": 14,
+    "class_name": "Morning Yoga 6",
+    "category": "Dance",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-12-01T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 28,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb91"
+    },
+    "trainer_id": 26,
+    "class_name": "Zumba Dance 7",
+    "category": "Flexibility",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2026-01-02T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 41,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb92"
+    },
+    "trainer_id": 18,
+    "class_name": "CrossFit WOD 8",
+    "category": "Martial Arts",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-02-17T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 32,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb42"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb93"
+    },
+    "trainer_id": 6,
+    "class_name": "Cardio Kickboxing 9",
+    "category": "Dance",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-05-15T00:00:00.000Z"
+    },
+    "duration_minutes": 30,
+    "max_participants": 47,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb36"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb94"
+    },
+    "trainer_id": 7,
+    "class_name": "Morning Yoga 10",
+    "category": "Strength",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2026-01-03T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 30,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb37"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb95"
+    },
+    "trainer_id": 23,
+    "class_name": "Power Yoga 11",
+    "category": "Cardio",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-12-27T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 36,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb47"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb96"
+    },
+    "trainer_id": 5,
+    "class_name": "Spin Class 12",
+    "category": "Martial Arts",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-10-13T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 48,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb35"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb97"
+    },
+    "trainer_id": 17,
+    "class_name": "Power Yoga 13",
+    "category": "Martial Arts",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2026-02-17T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 39,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb41"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb98"
+    },
+    "trainer_id": 2,
+    "class_name": "Power Yoga 14",
+    "category": "Cardio",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2026-01-16T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 29,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb32"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb99"
+    },
+    "trainer_id": 9,
+    "class_name": "Strength Training 15",
+    "category": "Martial Arts",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-12-05T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 18,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb39"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9a"
+    },
+    "trainer_id": 28,
+    "class_name": "Power Yoga 16",
+    "category": "Flexibility",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-04-14T00:00:00.000Z"
+    },
+    "duration_minutes": 30,
+    "max_participants": 43,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9b"
+    },
+    "trainer_id": 30,
+    "class_name": "Boxing Bootcamp 17",
+    "category": "Flexibility",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-07-23T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 40,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9c"
+    },
+    "trainer_id": 16,
+    "class_name": "Cardio Kickboxing 18",
+    "category": "Strength",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-03-22T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 22,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb40"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9d"
+    },
+    "trainer_id": 2,
+    "class_name": "Spin Class 19",
+    "category": "Flexibility",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2026-03-09T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 39,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb32"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9e"
+    },
+    "trainer_id": 5,
+    "class_name": "Power Yoga 20",
+    "category": "Flexibility",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-08-22T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 38,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb35"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb9f"
+    },
+    "trainer_id": 21,
+    "class_name": "Cardio Kickboxing 21",
+    "category": "Cardio",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-11-15T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 22,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb45"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba0"
+    },
+    "trainer_id": 7,
+    "class_name": "Cardio Kickboxing 22",
+    "category": "Flexibility",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-10-25T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 34,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb37"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba1"
+    },
+    "trainer_id": 30,
+    "class_name": "Spin Class 23",
+    "category": "Cardio",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-05-02T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 31,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba2"
+    },
+    "trainer_id": 16,
+    "class_name": "Spin Class 24",
+    "category": "Martial Arts",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-08-16T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 11,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb40"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba3"
+    },
+    "trainer_id": 23,
+    "class_name": "Zumba Dance 25",
+    "category": "Strength",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-12-15T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 38,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb47"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba4"
+    },
+    "trainer_id": 29,
+    "class_name": "Strength Training 26",
+    "category": "Flexibility",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-12-04T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 49,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba5"
+    },
+    "trainer_id": 10,
+    "class_name": "Cardio Kickboxing 27",
+    "category": "Strength",
+    "mode": "Virtual",
+    "schedule_date": {
+      "$date": "2025-02-24T00:00:00.000Z"
+    },
+    "duration_minutes": 60,
+    "max_participants": 20,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba6"
+    },
+    "trainer_id": 20,
+    "class_name": "Boxing Bootcamp 28",
+    "category": "Dance",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2026-01-01T00:00:00.000Z"
+    },
+    "duration_minutes": 90,
+    "max_participants": 44,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb44"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba7"
+    },
+    "trainer_id": 26,
+    "class_name": "Spin Class 29",
+    "category": "Dance",
+    "mode": "Hybrid",
+    "schedule_date": {
+      "$date": "2025-04-03T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 32,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcba8"
+    },
+    "trainer_id": 14,
+    "class_name": "Pilates Core 30",
+    "category": "Martial Arts",
+    "mode": "In-Person",
+    "schedule_date": {
+      "$date": "2025-05-25T00:00:00.000Z"
+    },
+    "duration_minutes": 45,
+    "max_participants": 45,
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3e"
+    }
+  }
+]

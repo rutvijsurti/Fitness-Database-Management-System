@@ -1,0 +1,272 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb13"
+    },
+    "plan_name": "Basic Monthly",
+    "duration_months": 1,
+    "price": 29.99,
+    "features": "Access to gym, Basic tracking"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb14"
+    },
+    "plan_name": "Basic Quarterly",
+    "duration_months": 3,
+    "price": 79.99,
+    "features": "Access to gym, Basic tracking, 10% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb15"
+    },
+    "plan_name": "Basic Annual",
+    "duration_months": 12,
+    "price": 299.99,
+    "features": "Access to gym, Basic tracking, 20% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb16"
+    },
+    "plan_name": "Premium Monthly",
+    "duration_months": 1,
+    "price": 49.99,
+    "features": "Gym access, Personal trainer, Advanced tracking"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb17"
+    },
+    "plan_name": "Premium Quarterly",
+    "duration_months": 3,
+    "price": 134.99,
+    "features": "Gym access, Personal trainer, Advanced tracking, 10% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb18"
+    },
+    "plan_name": "Premium Annual",
+    "duration_months": 12,
+    "price": 499.99,
+    "features": "Gym access, Personal trainer, Advanced tracking, 20% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb19"
+    },
+    "plan_name": "Elite Monthly",
+    "duration_months": 1,
+    "price": 99.99,
+    "features": "All features, Unlimited classes, Nutrition plans"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1a"
+    },
+    "plan_name": "Elite Quarterly",
+    "duration_months": 3,
+    "price": 269.99,
+    "features": "All features, Unlimited classes, Nutrition plans, 10% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1b"
+    },
+    "plan_name": "Elite Annual",
+    "duration_months": 12,
+    "price": 999.99,
+    "features": "All features, Unlimited classes, Nutrition plans, 20% discount"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1c"
+    },
+    "plan_name": "Student Monthly",
+    "duration_months": 1,
+    "price": 19.99,
+    "features": "Basic access for students"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1d"
+    },
+    "plan_name": "Custom Plan 11",
+    "duration_months": 6,
+    "price": 136.76,
+    "features": "Custom features package 11"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1e"
+    },
+    "plan_name": "Custom Plan 12",
+    "duration_months": 1,
+    "price": 40.84,
+    "features": "Custom features package 12"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb1f"
+    },
+    "plan_name": "Custom Plan 13",
+    "duration_months": 6,
+    "price": 106.88,
+    "features": "Custom features package 13"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb20"
+    },
+    "plan_name": "Custom Plan 14",
+    "duration_months": 12,
+    "price": 138.54,
+    "features": "Custom features package 14"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb21"
+    },
+    "plan_name": "Custom Plan 15",
+    "duration_months": 3,
+    "price": 85.53,
+    "features": "Custom features package 15"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb22"
+    },
+    "plan_name": "Custom Plan 16",
+    "duration_months": 1,
+    "price": 146.44,
+    "features": "Custom features package 16"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb23"
+    },
+    "plan_name": "Custom Plan 17",
+    "duration_months": 3,
+    "price": 131.08,
+    "features": "Custom features package 17"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb24"
+    },
+    "plan_name": "Custom Plan 18",
+    "duration_months": 12,
+    "price": 98.43,
+    "features": "Custom features package 18"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb25"
+    },
+    "plan_name": "Custom Plan 19",
+    "duration_months": 12,
+    "price": 117.31,
+    "features": "Custom features package 19"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb26"
+    },
+    "plan_name": "Custom Plan 20",
+    "duration_months": 1,
+    "price": 67.24,
+    "features": "Custom features package 20"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb27"
+    },
+    "plan_name": "Custom Plan 21",
+    "duration_months": 3,
+    "price": 93.46,
+    "features": "Custom features package 21"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb28"
+    },
+    "plan_name": "Custom Plan 22",
+    "duration_months": 12,
+    "price": 79.07,
+    "features": "Custom features package 22"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb29"
+    },
+    "plan_name": "Custom Plan 23",
+    "duration_months": 3,
+    "price": 92.59,
+    "features": "Custom features package 23"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2a"
+    },
+    "plan_name": "Custom Plan 24",
+    "duration_months": 6,
+    "price": 25.2,
+    "features": "Custom features package 24"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2b"
+    },
+    "plan_name": "Custom Plan 25",
+    "duration_months": 12,
+    "price": 36.27,
+    "features": "Custom features package 25"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2c"
+    },
+    "plan_name": "Custom Plan 26",
+    "duration_months": 3,
+    "price": 27.42,
+    "features": "Custom features package 26"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2d"
+    },
+    "plan_name": "Custom Plan 27",
+    "duration_months": 1,
+    "price": 58.99,
+    "features": "Custom features package 27"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2e"
+    },
+    "plan_name": "Custom Plan 28",
+    "duration_months": 3,
+    "price": 124.64,
+    "features": "Custom features package 28"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb2f"
+    },
+    "plan_name": "Custom Plan 29",
+    "duration_months": 3,
+    "price": 106.35,
+    "features": "Custom features package 29"
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcb30"
+    },
+    "plan_name": "Custom Plan 30",
+    "duration_months": 1,
+    "price": 124.15,
+    "features": "Custom features package 30"
+  }
+]

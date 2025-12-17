@@ -1,0 +1,542 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc03"
+    },
+    "user_id": 1,
+    "goal_type": "Fat Loss",
+    "target_weight": 66.91,
+    "start_date": {
+      "$date": "2024-09-24T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-03-10T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc04"
+    },
+    "user_id": 2,
+    "goal_type": "Weight Gain",
+    "target_weight": 96.48,
+    "start_date": {
+      "$date": "2024-01-13T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-03-02T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc05"
+    },
+    "user_id": 3,
+    "goal_type": "Endurance",
+    "target_weight": 52.28,
+    "start_date": {
+      "$date": "2024-10-12T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-11-30T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc06"
+    },
+    "user_id": 4,
+    "goal_type": "Muscle Building",
+    "target_weight": 58.5,
+    "start_date": {
+      "$date": "2025-10-02T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-11-08T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb70"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc07"
+    },
+    "user_id": 5,
+    "goal_type": "Endurance",
+    "target_weight": 70.38,
+    "start_date": {
+      "$date": "2024-11-13T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-02-14T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc08"
+    },
+    "user_id": 6,
+    "goal_type": "Weight Gain",
+    "target_weight": 84.11,
+    "start_date": {
+      "$date": "2024-04-11T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-26T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc09"
+    },
+    "user_id": 7,
+    "goal_type": "Weight Gain",
+    "target_weight": 56.66,
+    "start_date": {
+      "$date": "2025-02-28T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-08-04T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb73"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0a"
+    },
+    "user_id": 8,
+    "goal_type": "Flexibility",
+    "target_weight": 98.47,
+    "start_date": {
+      "$date": "2025-02-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-05-08T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb74"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0b"
+    },
+    "user_id": 9,
+    "goal_type": "Muscle Building",
+    "target_weight": 99.46,
+    "start_date": {
+      "$date": "2024-12-15T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-05-20T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb75"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0c"
+    },
+    "user_id": 10,
+    "goal_type": "Weight Gain",
+    "target_weight": 80.41,
+    "start_date": {
+      "$date": "2025-08-05T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2026-01-16T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0d"
+    },
+    "user_id": 11,
+    "goal_type": "Endurance",
+    "target_weight": 94.22,
+    "start_date": {
+      "$date": "2024-05-09T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-06-22T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb77"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0e"
+    },
+    "user_id": 12,
+    "goal_type": "Fat Loss",
+    "target_weight": 99.82,
+    "start_date": {
+      "$date": "2024-03-16T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-05-10T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc0f"
+    },
+    "user_id": 13,
+    "goal_type": "Muscle Building",
+    "target_weight": 63.29,
+    "start_date": {
+      "$date": "2024-07-06T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-08-09T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb79"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc10"
+    },
+    "user_id": 14,
+    "goal_type": "Fat Loss",
+    "target_weight": 61.0,
+    "start_date": {
+      "$date": "2025-10-24T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-12-27T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc11"
+    },
+    "user_id": 15,
+    "goal_type": "Weight Gain",
+    "target_weight": 78.14,
+    "start_date": {
+      "$date": "2025-05-21T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-07-13T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc12"
+    },
+    "user_id": 16,
+    "goal_type": "Flexibility",
+    "target_weight": 98.85,
+    "start_date": {
+      "$date": "2024-10-02T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-01-08T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc13"
+    },
+    "user_id": 17,
+    "goal_type": "Weight Gain",
+    "target_weight": 92.01,
+    "start_date": {
+      "$date": "2024-10-05T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-02-19T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc14"
+    },
+    "user_id": 18,
+    "goal_type": "Muscle Building",
+    "target_weight": 60.5,
+    "start_date": {
+      "$date": "2024-12-02T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-04-25T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc15"
+    },
+    "user_id": 19,
+    "goal_type": "Flexibility",
+    "target_weight": 67.87,
+    "start_date": {
+      "$date": "2025-12-09T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2026-05-03T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc16"
+    },
+    "user_id": 20,
+    "goal_type": "Endurance",
+    "target_weight": 95.76,
+    "start_date": {
+      "$date": "2025-11-01T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-12-15T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb80"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc17"
+    },
+    "user_id": 21,
+    "goal_type": "Muscle Building",
+    "target_weight": 78.09,
+    "start_date": {
+      "$date": "2024-06-27T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-10-02T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc18"
+    },
+    "user_id": 22,
+    "goal_type": "Weight Loss",
+    "target_weight": 87.19,
+    "start_date": {
+      "$date": "2025-03-06T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-07-09T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb82"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc19"
+    },
+    "user_id": 23,
+    "goal_type": "Endurance",
+    "target_weight": 76.44,
+    "start_date": {
+      "$date": "2025-03-31T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-08-12T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb83"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1a"
+    },
+    "user_id": 24,
+    "goal_type": "Muscle Building",
+    "target_weight": 60.58,
+    "start_date": {
+      "$date": "2025-02-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-03-28T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb84"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1b"
+    },
+    "user_id": 25,
+    "goal_type": "Muscle Building",
+    "target_weight": 94.27,
+    "start_date": {
+      "$date": "2024-09-18T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-10-29T00:00:00.000Z"
+    },
+    "status": "Active",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb85"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1c"
+    },
+    "user_id": 26,
+    "goal_type": "Weight Loss",
+    "target_weight": 60.96,
+    "start_date": {
+      "$date": "2025-02-09T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-05-06T00:00:00.000Z"
+    },
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1d"
+    },
+    "user_id": 27,
+    "goal_type": "Weight Gain",
+    "target_weight": 62.26,
+    "start_date": {
+      "$date": "2024-01-31T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-05-10T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1e"
+    },
+    "user_id": 28,
+    "goal_type": "Endurance",
+    "target_weight": 64.65,
+    "start_date": {
+      "$date": "2024-04-05T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2024-08-21T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb88"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc1f"
+    },
+    "user_id": 29,
+    "goal_type": "Fat Loss",
+    "target_weight": 80.69,
+    "start_date": {
+      "$date": "2025-09-22T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-11-08T00:00:00.000Z"
+    },
+    "status": "On Hold",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc20"
+    },
+    "user_id": 30,
+    "goal_type": "Endurance",
+    "target_weight": 79.03,
+    "start_date": {
+      "$date": "2025-05-09T00:00:00.000Z"
+    },
+    "end_date": {
+      "$date": "2025-08-25T00:00:00.000Z"
+    },
+    "status": "Abandoned",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8a"
+    }
+  }
+]

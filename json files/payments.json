@@ -1,0 +1,554 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc7"
+    },
+    "user_id": 1,
+    "subscription_id": 25,
+    "payment_date": {
+      "$date": "2025-06-13T00:00:00.000Z"
+    },
+    "amount": 137.03,
+    "payment_method": "PayPal",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6d"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc8"
+    },
+    "user_id": 2,
+    "subscription_id": 1,
+    "payment_date": {
+      "$date": "2025-01-27T00:00:00.000Z"
+    },
+    "amount": 901.03,
+    "payment_method": "PayPal",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6e"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb13"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbc9"
+    },
+    "user_id": 3,
+    "subscription_id": 28,
+    "payment_date": {
+      "$date": "2024-03-30T00:00:00.000Z"
+    },
+    "amount": 613.74,
+    "payment_method": "Apple Pay",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6f"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbca"
+    },
+    "user_id": 4,
+    "subscription_id": 17,
+    "payment_date": {
+      "$date": "2024-06-05T00:00:00.000Z"
+    },
+    "amount": 962.78,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb70"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb23"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbcb"
+    },
+    "user_id": 5,
+    "subscription_id": 6,
+    "payment_date": {
+      "$date": "2024-12-11T00:00:00.000Z"
+    },
+    "amount": 71.66,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb18"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbcc"
+    },
+    "user_id": 6,
+    "subscription_id": 10,
+    "payment_date": {
+      "$date": "2025-07-06T00:00:00.000Z"
+    },
+    "amount": 456.97,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb1c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbcd"
+    },
+    "user_id": 7,
+    "subscription_id": 28,
+    "payment_date": {
+      "$date": "2025-07-11T00:00:00.000Z"
+    },
+    "amount": 279.29,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb73"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbce"
+    },
+    "user_id": 8,
+    "subscription_id": 18,
+    "payment_date": {
+      "$date": "2025-11-04T00:00:00.000Z"
+    },
+    "amount": 244.02,
+    "payment_method": "Google Pay",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb74"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb24"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbcf"
+    },
+    "user_id": 9,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2024-11-08T00:00:00.000Z"
+    },
+    "amount": 522.99,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb75"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd0"
+    },
+    "user_id": 10,
+    "subscription_id": 17,
+    "payment_date": {
+      "$date": "2024-01-04T00:00:00.000Z"
+    },
+    "amount": 912.19,
+    "payment_method": "Bank Transfer",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb23"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd1"
+    },
+    "user_id": 11,
+    "subscription_id": 16,
+    "payment_date": {
+      "$date": "2025-09-27T00:00:00.000Z"
+    },
+    "amount": 806.17,
+    "payment_method": "Bank Transfer",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb77"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb22"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd2"
+    },
+    "user_id": 12,
+    "subscription_id": 30,
+    "payment_date": {
+      "$date": "2025-03-15T00:00:00.000Z"
+    },
+    "amount": 673.23,
+    "payment_method": "Google Pay",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb30"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd3"
+    },
+    "user_id": 13,
+    "subscription_id": 14,
+    "payment_date": {
+      "$date": "2024-01-10T00:00:00.000Z"
+    },
+    "amount": 638.67,
+    "payment_method": "Debit Card",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb79"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb20"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd4"
+    },
+    "user_id": 14,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2025-11-13T00:00:00.000Z"
+    },
+    "amount": 205.18,
+    "payment_method": "Apple Pay",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd5"
+    },
+    "user_id": 15,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2024-09-03T00:00:00.000Z"
+    },
+    "amount": 192.7,
+    "payment_method": "Credit Card",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd6"
+    },
+    "user_id": 16,
+    "subscription_id": 3,
+    "payment_date": {
+      "$date": "2024-09-03T00:00:00.000Z"
+    },
+    "amount": 36.36,
+    "payment_method": "Apple Pay",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb15"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd7"
+    },
+    "user_id": 17,
+    "subscription_id": 1,
+    "payment_date": {
+      "$date": "2024-03-27T00:00:00.000Z"
+    },
+    "amount": 280.46,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb13"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd8"
+    },
+    "user_id": 18,
+    "subscription_id": 27,
+    "payment_date": {
+      "$date": "2024-07-11T00:00:00.000Z"
+    },
+    "amount": 630.13,
+    "payment_method": "Google Pay",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7e"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbd9"
+    },
+    "user_id": 19,
+    "subscription_id": 1,
+    "payment_date": {
+      "$date": "2025-06-14T00:00:00.000Z"
+    },
+    "amount": 360.79,
+    "payment_method": "Credit Card",
+    "status": "Failed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7f"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb13"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbda"
+    },
+    "user_id": 20,
+    "subscription_id": 18,
+    "payment_date": {
+      "$date": "2024-10-17T00:00:00.000Z"
+    },
+    "amount": 195.53,
+    "payment_method": "PayPal",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb80"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb24"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbdb"
+    },
+    "user_id": 21,
+    "subscription_id": 17,
+    "payment_date": {
+      "$date": "2025-08-22T00:00:00.000Z"
+    },
+    "amount": 884.72,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb23"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbdc"
+    },
+    "user_id": 22,
+    "subscription_id": 23,
+    "payment_date": {
+      "$date": "2025-08-12T00:00:00.000Z"
+    },
+    "amount": 426.3,
+    "payment_method": "Google Pay",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb82"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb29"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbdd"
+    },
+    "user_id": 23,
+    "subscription_id": 29,
+    "payment_date": {
+      "$date": "2024-02-28T00:00:00.000Z"
+    },
+    "amount": 976.72,
+    "payment_method": "PayPal",
+    "status": "Completed",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb83"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbde"
+    },
+    "user_id": 24,
+    "subscription_id": 11,
+    "payment_date": {
+      "$date": "2024-12-11T00:00:00.000Z"
+    },
+    "amount": 628.43,
+    "payment_method": "Debit Card",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb84"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb1d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbdf"
+    },
+    "user_id": 25,
+    "subscription_id": 20,
+    "payment_date": {
+      "$date": "2025-06-24T00:00:00.000Z"
+    },
+    "amount": 127.73,
+    "payment_method": "Bank Transfer",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb85"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb26"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe0"
+    },
+    "user_id": 26,
+    "subscription_id": 7,
+    "payment_date": {
+      "$date": "2024-12-15T00:00:00.000Z"
+    },
+    "amount": 54.1,
+    "payment_method": "PayPal",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb19"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe1"
+    },
+    "user_id": 27,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2024-04-27T00:00:00.000Z"
+    },
+    "amount": 408.07,
+    "payment_method": "Debit Card",
+    "status": "Pending",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe2"
+    },
+    "user_id": 28,
+    "subscription_id": 25,
+    "payment_date": {
+      "$date": "2024-06-19T00:00:00.000Z"
+    },
+    "amount": 993.89,
+    "payment_method": "Credit Card",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb88"
+    },
+    "subscription_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb2b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe3"
+    },
+    "user_id": 29,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2025-09-27T00:00:00.000Z"
+    },
+    "amount": 997.67,
+    "payment_method": "Google Pay",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe4"
+    },
+    "user_id": 30,
+    "subscription_id": null,
+    "payment_date": {
+      "$date": "2024-02-26T00:00:00.000Z"
+    },
+    "amount": 262.42,
+    "payment_method": "Bank Transfer",
+    "status": "Refunded",
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8a"
+    }
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe5"
+    },
+    "user_id": 1,
+    "date": {
+      "$date": "2025-08-21T00:00:00.000Z"
+    },
+    "calories_burned": 863,
+    "steps": 12951,
+    "workout_time_min": 54,
+    "weight": 91.35,
+    "bmi": 33.28,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe6"
+    },
+    "user_id": 2,
+    "date": {
+      "$date": "2024-03-13T00:00:00.000Z"
+    },
+    "calories_burned": 300,
+    "steps": 8964,
+    "workout_time_min": 61,
+    "weight": 78.01,
+    "bmi": 21.36,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe7"
+    },
+    "user_id": 3,
+    "date": {
+      "$date": "2024-03-26T00:00:00.000Z"
+    },
+    "calories_burned": 320,
+    "steps": 12997,
+    "workout_time_min": 17,
+    "weight": 114.33,
+    "bmi": 28.9,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe8"
+    },
+    "user_id": 4,
+    "date": {
+      "$date": "2024-01-01T00:00:00.000Z"
+    },
+    "calories_burned": 640,
+    "steps": 13848,
+    "workout_time_min": 15,
+    "weight": 57.62,
+    "bmi": 19.14,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb70"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbe9"
+    },
+    "user_id": 5,
+    "date": {
+      "$date": "2025-08-13T00:00:00.000Z"
+    },
+    "calories_burned": 556,
+    "steps": 12556,
+    "workout_time_min": 40,
+    "weight": 60.28,
+    "bmi": 18.56,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbea"
+    },
+    "user_id": 6,
+    "date": {
+      "$date": "2024-01-11T00:00:00.000Z"
+    },
+    "calories_burned": 127,
+    "steps": 4635,
+    "workout_time_min": 104,
+    "weight": 108.05,
+    "bmi": 30.98,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbeb"
+    },
+    "user_id": 7,
+    "date": {
+      "$date": "2025-02-18T00:00:00.000Z"
+    },
+    "calories_burned": 352,
+    "steps": 2566,
+    "workout_time_min": 17,
+    "weight": 100.19,
+    "bmi": 25.38,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb73"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbec"
+    },
+    "user_id": 8,
+    "date": {
+      "$date": "2024-04-03T00:00:00.000Z"
+    },
+    "calories_burned": 639,
+    "steps": 14473,
+    "workout_time_min": 117,
+    "weight": 109.82,
+    "bmi": 37.08,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb74"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbed"
+    },
+    "user_id": 9,
+    "date": {
+      "$date": "2024-01-29T00:00:00.000Z"
+    },
+    "calories_burned": 818,
+    "steps": 11802,
+    "workout_time_min": 101,
+    "weight": 73.41,
+    "bmi": 24.73,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb75"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbee"
+    },
+    "user_id": 10,
+    "date": {
+      "$date": "2024-07-16T00:00:00.000Z"
+    },
+    "calories_burned": 263,
+    "steps": 12087,
+    "workout_time_min": 69,
+    "weight": 114.34,
+    "bmi": 47.23,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbef"
+    },
+    "user_id": 11,
+    "date": {
+      "$date": "2024-12-04T00:00:00.000Z"
+    },
+    "calories_burned": 276,
+    "steps": 6082,
+    "workout_time_min": 99,
+    "weight": 70.57,
+    "bmi": 28.97,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb77"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf0"
+    },
+    "user_id": 12,
+    "date": {
+      "$date": "2025-03-01T00:00:00.000Z"
+    },
+    "calories_burned": 238,
+    "steps": 6675,
+    "workout_time_min": 36,
+    "weight": 103.43,
+    "bmi": 31.55,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf1"
+    },
+    "user_id": 13,
+    "date": {
+      "$date": "2025-01-02T00:00:00.000Z"
+    },
+    "calories_burned": 670,
+    "steps": 11398,
+    "workout_time_min": 57,
+    "weight": 89.06,
+    "bmi": 31.93,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb79"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf2"
+    },
+    "user_id": 14,
+    "date": {
+      "$date": "2024-11-05T00:00:00.000Z"
+    },
+    "calories_burned": 814,
+    "steps": 9135,
+    "workout_time_min": 84,
+    "weight": 102.65,
+    "bmi": 25.77,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf3"
+    },
+    "user_id": 15,
+    "date": {
+      "$date": "2024-06-12T00:00:00.000Z"
+    },
+    "calories_burned": 562,
+    "steps": 14955,
+    "workout_time_min": 38,
+    "weight": 75.82,
+    "bmi": 22.29,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf4"
+    },
+    "user_id": 16,
+    "date": {
+      "$date": "2025-06-21T00:00:00.000Z"
+    },
+    "calories_burned": 789,
+    "steps": 3232,
+    "workout_time_min": 48,
+    "weight": 116.33,
+    "bmi": 29.18,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf5"
+    },
+    "user_id": 17,
+    "date": {
+      "$date": "2025-10-30T00:00:00.000Z"
+    },
+    "calories_burned": 864,
+    "steps": 1239,
+    "workout_time_min": 16,
+    "weight": 89.49,
+    "bmi": 36.66,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf6"
+    },
+    "user_id": 18,
+    "date": {
+      "$date": "2024-11-09T00:00:00.000Z"
+    },
+    "calories_burned": 809,
+    "steps": 6681,
+    "workout_time_min": 20,
+    "weight": 64.29,
+    "bmi": 23.16,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf7"
+    },
+    "user_id": 19,
+    "date": {
+      "$date": "2025-06-14T00:00:00.000Z"
+    },
+    "calories_burned": 811,
+    "steps": 6765,
+    "workout_time_min": 69,
+    "weight": 119.31,
+    "bmi": 39.91,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf8"
+    },
+    "user_id": 20,
+    "date": {
+      "$date": "2025-12-13T00:00:00.000Z"
+    },
+    "calories_burned": 345,
+    "steps": 15618,
+    "workout_time_min": 112,
+    "weight": 100.83,
+    "bmi": 26.77,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb80"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbf9"
+    },
+    "user_id": 21,
+    "date": {
+      "$date": "2025-09-13T00:00:00.000Z"
+    },
+    "calories_burned": 469,
+    "steps": 2275,
+    "workout_time_min": 119,
+    "weight": 90.12,
+    "bmi": 30.99,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbfa"
+    },
+    "user_id": 22,
+    "date": {
+      "$date": "2025-04-26T00:00:00.000Z"
+    },
+    "calories_burned": 595,
+    "steps": 15450,
+    "workout_time_min": 113,
+    "weight": 106.15,
+    "bmi": 36.9,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb82"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbfb"
+    },
+    "user_id": 23,
+    "date": {
+      "$date": "2024-02-19T00:00:00.000Z"
+    },
+    "calories_burned": 199,
+    "steps": 8954,
+    "workout_time_min": 50,
+    "weight": 77.21,
+    "bmi": 19.8,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb83"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbfc"
+    },
+    "user_id": 24,
+    "date": {
+      "$date": "2024-10-29T00:00:00.000Z"
+    },
+    "calories_burned": 790,
+    "steps": 18968,
+    "workout_time_min": 95,
+    "weight": 74.06,
+    "bmi": 20.91,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb84"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbfd"
+    },
+    "user_id": 25,
+    "date": {
+      "$date": "2025-08-15T00:00:00.000Z"
+    },
+    "calories_burned": 144,
+    "steps": 6071,
+    "workout_time_min": 22,
+    "weight": 110.38,
+    "bmi": 37.73,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb85"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbfe"
+    },
+    "user_id": 26,
+    "date": {
+      "$date": "2024-11-03T00:00:00.000Z"
+    },
+    "calories_burned": 108,
+    "steps": 12026,
+    "workout_time_min": 22,
+    "weight": 72.89,
+    "bmi": 22.69,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcbff"
+    },
+    "user_id": 27,
+    "date": {
+      "$date": "2025-03-14T00:00:00.000Z"
+    },
+    "calories_burned": 279,
+    "steps": 4753,
+    "workout_time_min": 21,
+    "weight": 55.67,
+    "bmi": 16.05,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc00"
+    },
+    "user_id": 28,
+    "date": {
+      "$date": "2024-03-28T00:00:00.000Z"
+    },
+    "calories_burned": 890,
+    "steps": 11165,
+    "workout_time_min": 73,
+    "weight": 75.8,
+    "bmi": 20.13,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb88"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc01"
+    },
+    "user_id": 29,
+    "date": {
+      "$date": "2024-08-05T00:00:00.000Z"
+    },
+    "calories_burned": 843,
+    "steps": 7365,
+    "workout_time_min": 114,
+    "weight": 94.38,
+    "bmi": 29.42,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb89"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc02"
+    },
+    "user_id": 30,
+    "date": {
+      "$date": "2024-05-30T00:00:00.000Z"
+    },
+    "calories_burned": 874,
+    "steps": 13014,
+    "workout_time_min": 76,
+    "weight": 82.14,
+    "bmi": 23.13,
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8a"
+    }
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc7b"
+    },
+    "user_id": 1,
+    "trainer_id": 8,
+    "class_id": null,
+    "rating": 4.94,
+    "comments": "Great class, highly recommend!",
+    "date": {
+      "$date": "2025-10-09T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6d"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb38"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc7c"
+    },
+    "user_id": 2,
+    "trainer_id": null,
+    "class_id": null,
+    "rating": 3.65,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-08-27T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc7d"
+    },
+    "user_id": 3,
+    "trainer_id": 7,
+    "class_id": 16,
+    "rating": 4.82,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2025-02-07T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb6f"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb37"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc7e"
+    },
+    "user_id": 4,
+    "trainer_id": 8,
+    "class_id": null,
+    "rating": 4.83,
+    "comments": "The class was too crowded.",
+    "date": {
+      "$date": "2024-11-24T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb70"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb38"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc7f"
+    },
+    "user_id": 5,
+    "trainer_id": 20,
+    "class_id": 29,
+    "rating": 3.67,
+    "comments": "Great class, highly recommend!",
+    "date": {
+      "$date": "2025-06-26T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb71"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb44"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc80"
+    },
+    "user_id": 6,
+    "trainer_id": 24,
+    "class_id": null,
+    "rating": 3.01,
+    "comments": "Trainer needs to be more attentive.",
+    "date": {
+      "$date": "2025-02-23T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb72"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb48"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc81"
+    },
+    "user_id": 7,
+    "trainer_id": 14,
+    "class_id": null,
+    "rating": 3.03,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2025-05-01T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb73"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc82"
+    },
+    "user_id": 8,
+    "trainer_id": null,
+    "class_id": 3,
+    "rating": 4.74,
+    "comments": "Very professional and motivating.",
+    "date": {
+      "$date": "2024-01-29T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb74"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc83"
+    },
+    "user_id": 9,
+    "trainer_id": 5,
+    "class_id": 1,
+    "rating": 3.38,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-10-12T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb75"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb35"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc84"
+    },
+    "user_id": 10,
+    "trainer_id": 13,
+    "class_id": null,
+    "rating": 4.39,
+    "comments": "Perfect for beginners!",
+    "date": {
+      "$date": "2025-02-04T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb76"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3d"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc85"
+    },
+    "user_id": 11,
+    "trainer_id": 18,
+    "class_id": 25,
+    "rating": 4.73,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-12-25T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb77"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb42"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba3"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc86"
+    },
+    "user_id": 12,
+    "trainer_id": 23,
+    "class_id": 1,
+    "rating": 4.36,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2024-05-08T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb78"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb47"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8b"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc87"
+    },
+    "user_id": 13,
+    "trainer_id": 13,
+    "class_id": 8,
+    "rating": 3.98,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-09-25T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb79"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3d"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb92"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc88"
+    },
+    "user_id": 14,
+    "trainer_id": 26,
+    "class_id": null,
+    "rating": 3.56,
+    "comments": "Amazing workout session!",
+    "date": {
+      "$date": "2024-05-12T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7a"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4a"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc89"
+    },
+    "user_id": 15,
+    "trainer_id": 5,
+    "class_id": 20,
+    "rating": 3.96,
+    "comments": "Very professional and motivating.",
+    "date": {
+      "$date": "2025-02-08T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7b"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb35"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8a"
+    },
+    "user_id": 16,
+    "trainer_id": 1,
+    "class_id": 8,
+    "rating": 4.76,
+    "comments": "Amazing workout session!",
+    "date": {
+      "$date": "2024-07-18T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7c"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb31"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb92"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8b"
+    },
+    "user_id": 17,
+    "trainer_id": 2,
+    "class_id": 2,
+    "rating": 3.67,
+    "comments": "Trainer needs to be more attentive.",
+    "date": {
+      "$date": "2025-09-09T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7d"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb32"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8c"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8c"
+    },
+    "user_id": 18,
+    "trainer_id": 30,
+    "class_id": 28,
+    "rating": 3.4,
+    "comments": "Very professional and motivating.",
+    "date": {
+      "$date": "2024-05-26T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7e"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb4e"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8d"
+    },
+    "user_id": 19,
+    "trainer_id": null,
+    "class_id": 13,
+    "rating": 4.63,
+    "comments": "Great class, highly recommend!",
+    "date": {
+      "$date": "2024-01-22T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb7f"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb97"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8e"
+    },
+    "user_id": 20,
+    "trainer_id": null,
+    "class_id": 20,
+    "rating": 4.2,
+    "comments": "The class was too crowded.",
+    "date": {
+      "$date": "2024-03-31T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb80"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb9e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc8f"
+    },
+    "user_id": 21,
+    "trainer_id": null,
+    "class_id": null,
+    "rating": 3.93,
+    "comments": "Very professional and motivating.",
+    "date": {
+      "$date": "2025-10-25T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb81"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc90"
+    },
+    "user_id": 22,
+    "trainer_id": null,
+    "class_id": 5,
+    "rating": 4.66,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2025-04-27T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb82"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8f"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc91"
+    },
+    "user_id": 23,
+    "trainer_id": 22,
+    "class_id": null,
+    "rating": 4.06,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2025-02-28T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb83"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb46"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc92"
+    },
+    "user_id": 24,
+    "trainer_id": 17,
+    "class_id": 10,
+    "rating": 4.37,
+    "comments": "Best fitness class I have attended!",
+    "date": {
+      "$date": "2024-03-10T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb84"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb41"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb94"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc93"
+    },
+    "user_id": 25,
+    "trainer_id": 19,
+    "class_id": 28,
+    "rating": 3.77,
+    "comments": "The class was too crowded.",
+    "date": {
+      "$date": "2025-08-06T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb85"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb43"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc94"
+    },
+    "user_id": 26,
+    "trainer_id": 1,
+    "class_id": 23,
+    "rating": 4.92,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-07-04T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb86"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb31"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcba1"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc95"
+    },
+    "user_id": 27,
+    "trainer_id": 3,
+    "class_id": null,
+    "rating": 4.2,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-01-28T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb87"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb33"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc96"
+    },
+    "user_id": 28,
+    "trainer_id": 24,
+    "class_id": 9,
+    "rating": 3.14,
+    "comments": "Perfect for beginners!",
+    "date": {
+      "$date": "2025-11-09T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb88"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb48"
+    },
+    "class_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb93"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc97"
+    },
+    "user_id": 29,
+    "trainer_id": 24,
+    "class_id": null,
+    "rating": 4.88,
+    "comments": "Challenging but rewarding.",
+    "date": {
+      "$date": "2025-10-21T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb89"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb48"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "692cd19fa74ad25a1d5dcc98"
+    },
+    "user_id": 30,
+    "trainer_id": 12,
+    "class_id": null,
+    "rating": 4.79,
+    "comments": "Excellent trainer, very knowledgeable!",
+    "date": {
+      "$date": "2024-12-28T00:00:00.000Z"
+    },
+    "user_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb8a"
+    },
+    "trainer_ref": {
+      "$oid": "692cd19fa74ad25a1d5dcb3c"
+    }
+  }
+]
